@@ -1,0 +1,9 @@
+module.exports={
+    mode:'debug',
+    debug:{
+       baseurl:'http://localhost:3000'
+    },
+    release:{
+        baseurl:'http://10.0.4.231:3000'
+     }
+}
